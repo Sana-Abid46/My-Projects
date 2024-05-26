@@ -24,4 +24,3 @@ This project is a great starting point for beginners, and it can be expanded upo
 - Alarm settings
 - Timezone support
 - Responsive design
-
